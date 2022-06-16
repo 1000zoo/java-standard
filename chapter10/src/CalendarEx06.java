@@ -35,5 +35,6 @@ public class CalendarEx06 {
                 System.out.println();
             }
         }
+        System.out.println();
     }
 }
